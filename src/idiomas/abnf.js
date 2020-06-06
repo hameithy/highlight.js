@@ -70,6 +70,6 @@ export default function(hljs) {
           caseSensitivityIndicatorMode,
           hljs.QUOTE_STRING_MODE,
           hljs.NUMBER_MODE
-      ]
+      ]upgrade(legal)
     };
-}
+}update,{}[install git]
